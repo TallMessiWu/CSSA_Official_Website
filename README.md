@@ -9,7 +9,7 @@ UCSD Chinese Students and Scholars Association (CSSA 中国学生学者联合会
 
 ```
 
-Deployed at: ucsdcssa.com
+Deployed at: [ucsdcssa.com](https://ucsdcssa.com/)
 <br>
 
 ## Getting Started
