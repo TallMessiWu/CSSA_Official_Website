@@ -6,10 +6,9 @@ UCSD Chinese Students and Scholars Association (CSSA 中国学生学者联合会
 ╔═╗╔═╗╔═╗╔═╗
 ║  ╚═╗╚═╗╠═╣
 ╚═╝╚═╝╚═╝╩ ╩
-
 ```
 
-Deployed at: [ucsdcssa.com](https://ucsdcssa.com/)
+Visit at: [ucsdcssa.com](https://ucsdcssa.com/) and [ucsdcssa-website.web.app](https://ucsdcssa-website.web.app/)
 <br>
 
 ## Getting Started
@@ -20,10 +19,10 @@ In order to work on this project, you should have <br>
 
 
 ### Prerequisites
+None.
 
 
-
-## Built and hosted With
+## Hosted With
 
 * [Firebase](https://firebase.google.com/) - Cloud hosting server powered by Google
 
@@ -33,7 +32,7 @@ In order to work on this project, you should have <br>
 | Contributor   | Email         | Role         |
 | ------------- | ------------- |------------- |
 | Yueqian Ma    | yum001@ucsd.edu  | Developer    |
-| Yueqing Qiao  | y2qiao@ucsd.edu  | UI Designer  |
+
 
 
 
