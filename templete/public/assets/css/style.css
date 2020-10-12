@@ -1083,19 +1083,25 @@ section {
 }
 
 .portfolio .portfolio-item {
-  margin-bottom: 30px;
+  margin-bottom: 150px;
 }
 
 .portfolio .portfolio-item .portfolio-info {
   opacity: 0.8;
   position: absolute;
-  left: 30px;
-  right: 30px;
-  bottom: 10px;
+  left: 15px;
+  right: 15px;
+  bottom: -105px;
   z-index: 3;
-  transition: all ease-in-out 0.3s;
-  background: rgba(255, 255, 255, 0.9);
+  transition: all ease-in-out 0.1s;
+  background: rgb(255, 255, 255);
   padding: 15px;
+  /* border-style: dashed; */
+  border-width: 2px;
+  border-color: #c2c2c2;
+  border-top-style: hidden;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
+  
 }
 
 .portfolio .portfolio-item .portfolio-info h4 {
@@ -1134,7 +1140,7 @@ section {
   text-align: center;
   z-index: 3;
   position: absolute;
-  transition: all ease-in-out 0.3s;
+  transition: all ease-in-out 0.1s;
 }
 
 .portfolio .portfolio-item .portfolio-links a {
@@ -1142,7 +1148,7 @@ section {
   margin: 0 2px;
   font-size: 28px;
   display: inline-block;
-  transition: 0.3s;
+  transition: 0.1s;
 }
 
 .portfolio .portfolio-item .portfolio-links a:hover {
@@ -1151,7 +1157,7 @@ section {
 
 .portfolio .portfolio-item:hover .portfolio-info {
   opacity: 1;
-  bottom: 20px;
+  bottom: -105px;
 }
 
 /*--------------------------------------------------------------
