@@ -11,6 +11,9 @@ UCSD Chinese Students and Scholars Association (CSSA 中国学生学者联合会
 Visit at: [ucsdcssa.com](https://ucsdcssa.com/) and [ucsdcssa-website.web.app](https://ucsdcssa-website.web.app/)
 <br>
 
+网页里需要的所有的东西都在～/templete/public/ 里面，其他的folder和文件都是没用的，但是别删！
+<br>
+
 ## Getting Started
 
 In order to work on this project, you should have <br>
