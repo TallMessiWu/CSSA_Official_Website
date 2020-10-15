@@ -35,6 +35,8 @@ None.
 | Contributor   | Email         | Role         |
 | ------------- | ------------- |------------- |
 | Yueqian Ma    | yum001@ucsd.edu  | Developer    |
+| Jicang Cai    | j1cai@ucsd.edu  | Developer    |
+| Buwei Wu    | buwu@ucsd.edu  | Developer    |
 
 
 
