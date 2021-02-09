@@ -47,3 +47,11 @@ All right reserved by Chinese Students and Scholars Associationat, UCSD.
 
 UCSD CSSA Technology Department 2019 - 2020
 
+
+## Todo List
+
+1. 添加CSSA卡专属页面，其中包括：PPT介绍，视频介绍，如何申请流程简介，合作商家列表（半隐藏）
+2. 新手指导script，带着用户介绍网站功能以及CSSA的各类服务
+3. 单独设置CSSA卡 header tab，更醒目，添加动画+annimation等，更显眼
+4. 主页的cssa公众号文章加入自动扒取微信公众号同时自动更新网页功能
+5. CSSA卡，或者主页 添加可以动的autoplay loop的视频，增加效果
