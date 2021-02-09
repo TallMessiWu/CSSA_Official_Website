@@ -2560,7 +2560,6 @@ section {
     opacity: 1;
   }
 
-
  #homepage_footer_widget_mail {
    background-image: url("../../images/email_white.png");
    background-size: cover;
@@ -2585,3 +2584,17 @@ section {
   background-size: cover;
   z-index: 1;
 }
+
+/*Test the effect of fading in words*/
+  .fade-in-section {
+  opacity: 0;
+  transform: translateY(20vh);
+  visibility: hidden;
+  transition: opacity 0.6s ease-out, transform 1.2s ease-out;
+  will-change: opacity, visibility;
+  }
+.fade-in-section.is-visible {
+  opacity: 1;
+  transform: none;
+  visibility: visible;
+  }
