@@ -1,4 +1,3 @@
-cd /root/CSSA_OFFICIAL_WEBSITE
 git pull
 cd templete
 cp -r public /var/www
