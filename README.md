@@ -1,6 +1,6 @@
 # CSSA_Official_Website
-UCSD Chinese Students and Scholars Association (CSSA 中国学生学者联合会) website.
 
+UCSD Chinese Students and Scholars Association (CSSA 中国学生学者联合会) website.
 
 ```bash
 ╔═╗╔═╗╔═╗╔═╗
@@ -20,33 +20,28 @@ In order to work on this project, you should have <br>
 
 1. Git - A version control tool
 
-
 ### Prerequisites
-None.
 
+None.
 
 ## Hosted With
 
 * [Firebase](https://firebase.google.com/) - Cloud hosting server powered by Google
 
-
 ## Contributors
 
-| Contributor   | Email         | Role         |
-| ------------- | ------------- |------------- |
-| Yueqian Ma    | yum001@ucsd.edu  | Developer    |
-| Jicang Cai    | j1cai@ucsd.edu  | Developer    |
-| Buwei Wu    | buwu@ucsd.edu  | Developer    |
-
-
-
+| Contributor | Email           | Role      |
+|-------------|-----------------|-----------|
+| Yueqian Ma  | yum001@ucsd.edu | Developer |
+| Junlin Wu   | juw029@ucsd.edu | Developer |
+| Jicang Cai  | j1cai@ucsd.edu  | Developer |
+| Buwei Wu    | buwu@ucsd.edu   | Developer |
 
 All right reserved by Chinese Students and Scholars Associationat, UCSD.
 
 ## Acknowledgments
 
 UCSD CSSA Technology Department 2019 - 2020
-
 
 ## Todo List
 
