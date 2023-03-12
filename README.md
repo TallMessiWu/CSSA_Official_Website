@@ -1,5 +1,19 @@
 # CSSA_Official_Website
 
+## 重要通知
+
+此网站已废弃不用，新版网站已使用Vue重构。新版网站仅仅是在PC端样式与设计上参考了旧的网站。其代码基本上都是全部重新，只有少量样式复制了旧版网站的部分`CSS`。
+通过`Vue`和`Vite`实现了前后端分离。后端则用`Python`的`Flask`框架实现。
+重构后，网站实现了模块化，可扩展性更强，更易于维护。同时，网站在PC端和移动端拥有了不同的界面，且网站性能也得到了提升。
+
+[新版官网入口](https://www.ucsdcssa.com/)
+
+[新版官网API入口](https://api.ucsdcssa.com/)
+
+[新版网站前端GitHub仓库](https://github.com/TallMessiWu/ucsdcssa-website-vue)
+
+[新版网站后端GitHub仓库](https://github.com/TallMessiWu/ucsdcssa-website-backend)
+
 UCSD Chinese Students and Scholars Association (CSSA 中国学生学者联合会) website.
 
 ```bash
